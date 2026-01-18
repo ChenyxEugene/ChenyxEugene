@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   
-  <h1>Hi there, I'm Yuxuan Chen (陈宇轩) 👋</h1>
+  <h1>Hi there, I'm Yuxuan Chen (陈玉轩) 👋</h1>
   
   <p>
     <b>PhD Candidate @ Sun Yat-sen University (SYSU)</b><br>
@@ -12,7 +12,7 @@
     <a href="https://hub.docker.com/u/chenyxeugene">
       <img src="https://img.shields.io/docker/pulls/chenyxeugene/query4code?label=Docker%20Pulls&style=flat-square&logo=docker&color=2496ED" alt="Docker Pulls">
     </a>
-    <a href="mailto:你的邮箱地址@mail2.sysu.edu.cn">
+    <a href="mailto:chenyx677@mail2.sysu.edu.cn">
       <img src="https://img.shields.io/badge/Email-Me-orange?style=flat-square&logo=gmail" alt="Email">
     </a>
   </p>
@@ -27,14 +27,14 @@
 * **Large Language Models** (大语言模型在 SE 中的应用)
 * **Data Pruning & Selection** (数据剪枝与筛选)
 
-🌱 我目前正在进行关于 Code LLMs 数据剪枝的研究，业余时间也在开发一个个人日志记录工具。
+🌱 我目前正在进行关于 Code LLMs 数据剪枝的研究。
 
 ---
 
 ### 📢 Latest News
 
+
 * **[2026.01]** 🎉 我的论文 *"Are Decoder-Only Large Language Models the Silver Bullet for Code Search?"* 已被 **Transactions on Software Engineering (TSE)** 录用！
-* **[2025.10]** 参与了 APSEC 2025 学生研究竞赛 (Student Research Competition)。
 
 ---
 
