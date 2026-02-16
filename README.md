@@ -26,28 +26,33 @@
 ### 📢 Selected Publications (Ordered by Time)
 
 * **[2026]** **[TSE]** **Are decoder-only large language models the silver bullet for code search?**
-  * **Y. Chen**, M. Liu, G. Ou, A. Li, D. Dai, Y Wang, Z. Zheng.  
+  **Y. Chen**, M. Liu, G. Ou, A. Li, D. Dai, Y Wang, Z. Zheng.  
   *IEEE Transactions on Software Engineering.(TSE,CCF A)*
 
 * **[2025]** **[ASE '25 / arXiv]** **RustRepoTrans: Repository-level Code Translation Benchmark targeting Rust.**
-  * G. Ou, M. Liu, **Y. Chen**, X. Peng, Z. Zheng.  
-  *CCF A (Targeted).*
+  G. Ou, M. Liu, **Y. Chen**, X. Peng, Z. Zheng.  
+  *on the 40th IEEE/ACM Automated Software Engineering Conference (ASE,CCF A)*
 
-* **[2025]** **[Preprint]** **Evolving Triple Knowledge-Augmented LLMs for Code Translation in Repository Context.** G. Ou, M. Liu, **Y. Chen**, X. Du, S. Wang, Z. Zhang, X. Peng, Z. Zheng.  
+* **[2022]** **[Chaos]** **Oscillation quenching in diffusively coupled dynamical networks with inertial effects.**
+  W. Zou, **Y. Chen**, D.V. Senthilkumar, J. Kurths.  
+  *Chaos: An Interdisciplinary Journal of Nonlinear Science 32 (4).(JCR 1区)*
+
+* **[2025]** **[Preprint]** **Evolving Triple Knowledge-Augmented LLMs for Code Translation in Repository Context.**
+  G. Ou, M. Liu, **Y. Chen**, X. Du, S. Wang, Z. Zhang, X. Peng, Z. Zheng.  
   *arXiv:2503.18305.*
 
-* **[2025]** **[Preprint]** **Generating High-Quality Datasets for Code Editing via Open-Source Language Models.** Z. Zhang, M. Liu, Z. Chen, L. Liang, **Y. Chen**, G. Ou, Y. Wang, D. Li, X. Peng.  
+* **[2025]** **[Preprint]** **Generating High-Quality Datasets for Code Editing via Open-Source Language Models.**
+  Z. Zhang, M. Liu, Z. Chen, L. Liang, **Y. Chen**, G. Ou, Y. Wang, D. Li, X. Peng.  
   *arXiv:2509.25203.*
 
-* **[2022]** **[Chaos]** **Oscillation quenching in diffusively coupled dynamical networks with inertial effects.** W. Zou, **Y. Chen**, D.V. Senthilkumar, J. Kurths.  
-  *Chaos: An Interdisciplinary Journal of Nonlinear Science 32 (4).*
+
 
 ---
 
 ### 🛠️ Key Projects (Ordered by Time)
 
 * 🧪 **Code LLM Evaluation Framework** (2025.08 - 2025.12)  
-  构建代码搜索数据集评估微调效果。**核心贡献**：提供了 8 个代码评估维度和 1 个 RAG 评估维度，支持多维度量化模型性能。
+  构建代码搜索数据集评估微调效果，提供了 8 个代码评估维度和 1 个 RAG 评估维度，支持多维度量化模型性能。
 
 * 🛡️ **TrustedGPT: LLM Trustworthiness Evaluation** (2024.05 - 2024.10)  
   **核心成员**。搭建端到端自动化评测流水线，重点设计并实现了针对 **幻觉、鲁棒性** 等 5 个核心维度的评测逻辑。
