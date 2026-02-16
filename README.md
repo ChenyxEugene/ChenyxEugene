@@ -32,17 +32,17 @@
 
 * **[2025]** **[ASE '25 / arXiv]** **RustRepoTrans: Repository-level Code Translation Benchmark targeting Rust.**
 
-*  G. Ou, M. Liu, **Y. Chen**, X. Peng, Z. Zheng.  
+  * G. Ou, M. Liu, **Y. Chen**, X. Peng, Z. Zheng.  
   *on the 40th IEEE/ACM Automated Software Engineering Conference (ASE,CCF A)*
 
 * **[2022]** **[Chaos]** **Oscillation quenching in diffusively coupled dynamical networks with inertial effects.**
 
-*  W. Zou, **Y. Chen**, D.V. Senthilkumar, J. Kurths.  
+  * W. Zou, **Y. Chen**, D.V. Senthilkumar, J. Kurths.  
   *Chaos: An Interdisciplinary Journal of Nonlinear Science 32 (4).(JCR 1区)*
 
 * **[2025]** **[Preprint]** **Evolving Triple Knowledge-Augmented LLMs for Code Translation in Repository Context.**
-
-* G. Ou, M. Liu, **Y. Chen**, X. Du, S. Wang, Z. Zhang, X. Peng, Z. Zheng.  
+  
+  * G. Ou, M. Liu, **Y. Chen**, X. Du, S. Wang, Z. Zhang, X. Peng, Z. Zheng.  
   *arXiv:2503.18305.*
 
 * **[2025]** **[Preprint]** **Generating High-Quality Datasets for Code Editing via Open-Source Language Models.**
