@@ -25,10 +25,12 @@
 
 ### 📢 Selected Publications (Ordered by Time)
 
-* **[2026]** **[TSE]** **Are decoder-only large language models the silver bullet for code search?** **Y. Chen**, M. Liu, G. Ou, A. Li, D. Dai, Y Wang, Z. Zheng.  
-  *IEEE Transactions on Software Engineering.*
+* **[2026]** **[TSE]** **Are decoder-only large language models the silver bullet for code search?**
+  * **Y. Chen**, M. Liu, G. Ou, A. Li, D. Dai, Y Wang, Z. Zheng.  
+  *IEEE Transactions on Software Engineering.(TSE,CCF A)*
 
-* **[2025]** **[ASE '25 / arXiv]** **RustRepoTrans: Repository-level Code Translation Benchmark targeting Rust.** G. Ou, M. Liu, **Y. Chen**, X. Peng, Z. Zheng.  
+* **[2025]** **[ASE '25 / arXiv]** **RustRepoTrans: Repository-level Code Translation Benchmark targeting Rust.**
+  * G. Ou, M. Liu, **Y. Chen**, X. Peng, Z. Zheng.  
   *CCF A (Targeted).*
 
 * **[2025]** **[Preprint]** **Evolving Triple Knowledge-Augmented LLMs for Code Translation in Repository Context.** G. Ou, M. Liu, **Y. Chen**, X. Du, S. Wang, Z. Zhang, X. Peng, Z. Zheng.  
