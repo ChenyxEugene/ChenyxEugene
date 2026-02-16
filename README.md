@@ -30,7 +30,7 @@
   * **Y. Chen**, M. Liu, G. Ou, A. Li, D. Dai, Y Wang, Z. Zheng.  
   *IEEE Transactions on Software Engineering.(TSE,CCF A)*
 
-* **[2025]** **[ASE '25 / arXiv]** **RustRepoTrans: Repository-level Code Translation Benchmark targeting Rust.**
+* **[2025]** **[ASE '25]** **RustRepoTrans: Repository-level Code Translation Benchmark targeting Rust.**
   * G. Ou, M. Liu, **Y. Chen**, X. Peng, Z. Zheng.  
     *on the 40th IEEE/ACM Automated Software Engineering Conference (ASE,CCF A)*
 
