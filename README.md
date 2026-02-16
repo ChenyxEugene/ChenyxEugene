@@ -23,7 +23,7 @@
 
 ---
 
-### 📢 Selected Publications (Ordered by Time)
+### 📢 Selected Publications
 
 * **[2026]** **[TSE]** **Are decoder-only large language models the silver bullet for code search?**
 
