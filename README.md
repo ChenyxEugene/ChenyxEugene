@@ -79,8 +79,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChenyxEugene&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyxEugene&layout=compact&theme=radical" alt="Langs" />
 </div>
 
 <div align="center">
