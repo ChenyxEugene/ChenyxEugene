@@ -25,12 +25,11 @@
 
 ### 📢 Selected Publications
 
-[2026] [通信学报] 面向可信增强的AI智能体研究综述
 
 * **[2026] [通信学报]** [**面向可信增强的AI智能体研究综述**](https://doi.org/10.11959/j.issn.1000-436x.TXXB260331)
 
   * Z. Zheng, **Y. Chen**, Z. Zhang, W. Li, J. Liu.
-    *《通信学报》(CCF T1), 2026.*
+  *《通信学报》(CCF T1), 2026.*
 
 
 * **[2026]** **[TSE]** **Are decoder-only large language models the silver bullet for code search?**
@@ -55,12 +54,18 @@
     *arXiv:2509.25203.*
 
 ---
+
 💼 Experience
 Algorithm Intern, Agent Platform — Tencent Cloud and Smart Industries Group
+
 2026.04 – Present
+
 参与腾讯云智能体开发平台（Tencent Cloud ADP）研发，支撑企业级智能体应用的配置、调试、评测、发布与运营。
+
 面向复杂多仓库项目，设计 Agent 可读的代码与文档上下文组织机制，并将研发工具链沉淀为可复用的 Agent Skills，提升代码定位、任务执行与研发流程交接效率。
+
 设计仓库级单元测试生成 Agent，引入测试契约、关键节点规则校验和变异测试质量门禁，并通过多 Agent 并行编排提升整仓测试生成的效率与质量。
+
 ---
 
 ### 🛠️ Key Projects (Ordered by Time)
